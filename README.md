@@ -1,4 +1,5 @@
-Agile Group Project 
+
+# Agile Group Project 
 This is a prgram that allows users write comments and edit them. 
 Users are in 3 categories ie. normal users, moderators, admins
 
